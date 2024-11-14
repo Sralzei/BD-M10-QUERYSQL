@@ -1,0 +1,1 @@
+-- Ini adalah QUERYSQL untuk Seminar Sesi 2
